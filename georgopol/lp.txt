@@ -52,6 +52,7 @@
     <link rel="alternate" hreflang="en" href="https://geoportal.madamkeren.shop/" />
     <link rel="alternate" hreflang="x-default" href="https://geoportal.madamkeren.shop/" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="google-site-verification" content="7SpTGHRBA1SR1uW9DAj1Z3JseO_le22XR4ox2jwglMo" />
     <link rel="icon" type="image/x-icon"
         href="https://abang-cungkok.pages.dev/MadamToto/favim.png">
     <link rel="apple-touch-icon-precomposed" type="image/x-icon"
