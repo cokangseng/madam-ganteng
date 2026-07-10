@@ -3687,7 +3687,7 @@
 
             <div class="popupFooter">
                 Copyright 2026 <a href="https://geoportal.rohilkab.go.id/" style="color: #EFBF04;">MADAMTOTO</a> x
-                <a href="https://geoportal.rohilkab.go.id/" style="color: #EFBF04;">STRF</a>
+                <a href="https://geoportal.rohilkab.go.id/" style="color: #EFBF04;">ZEROTWO</a>
             </div>
         </div>
     </div>
